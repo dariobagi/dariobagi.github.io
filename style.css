@@ -11,7 +11,7 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #333;
-    font-family:'Segoe UI', Tahoma, Verdana, sans-serif
+    font-family:'Segoe UI'
   }
   
   li {
@@ -24,14 +24,14 @@ ul {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-family:'Segoe UI', Tahoma, Verdana, sans-serif
+    font-family:'Segoe UI'
   }
   
   li a:hover {
     background-color: #111;
-    font-family:'Segoe UI', Tahoma, Verdana, sans-serif
+    
   }
   .active {
       background-color: lightslategray;
-      font-family:'Segoe UI', Tahoma, Verdana, sans-serif
+      font-family:'Segoe UI'
   }
