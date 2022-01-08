@@ -1,6 +1,10 @@
 h1 {
-    color: dodgerblue;
+    color: black;
     font-family:'Segoe UI', Tahoma, Verdana, sans-serif
+}
+h1 {
+  color: black;
+  font-family:'Segoe UI', Tahoma, Verdana, sans-serif
 }
 body {
     background-image: url("bg.png");
