@@ -1,10 +1,10 @@
 h1 {
     color: black;
-    font-family:'Segoe UI'
+    font-family:'Source Code Pro'
 }
 p {
   color: black;
-  font-family:'Segoe UI'
+  font-family:'Source Code Pro'
 }
 body {
     background-image: url("bg.png");
@@ -15,7 +15,7 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #333;
-    font-family:'Segoe UI'
+    font-family:'Source Code Pro'
   }
   
   li {
@@ -28,7 +28,7 @@ ul {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-family:'Segoe UI'
+    font-family:'Source Code Pro'
   }
   
   li a:hover {
@@ -37,7 +37,7 @@ ul {
   }
   .active {
       background-color: lightslategray;
-      font-family:'Segoe UI'
+      font-family:'Source Code Pro'
   }
 
 a {
