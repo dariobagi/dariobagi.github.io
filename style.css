@@ -4,7 +4,7 @@ h1 {
 }
 p {
   color: black;
-  font-family:'Source Code Pro'
+  font-family:'Source Code Pro', monospace
 }
 body {
     background-image: url("bg.png");
