@@ -1,6 +1,6 @@
 h1 {
     color: black;
-    font-family:'Source Code Pro'
+    font-family:'Source Code Pro', monospace
 }
 p {
   color: black;
@@ -15,7 +15,7 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #333;
-    font-family:'Source Code Pro'
+    font-family:'Source Code Pro', monospace
   }
   
   li {
@@ -28,7 +28,7 @@ ul {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-family:'Source Code Pro'
+    font-family:'Source Code Pro', monospace
   }
   
   li a:hover {
@@ -37,5 +37,5 @@ ul {
   }
   .active {
       background-color: lightslategray;
-      font-family:'Source Code Pro'
+      font-family:'Source Code Pro', monospace
   }
